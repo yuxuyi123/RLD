@@ -12,7 +12,7 @@
 | +RDD [^7]                | 13.6M      |           | 77.18        |
 | +TD [^8]                    | 13.6M      |           | 76.57        |
 | +DIST/DIST+ [^9]          | 13.6M      |           | 77.10 / 77.36|
-| **+RLD (Ours)**                      | 13.6M      |           | **77.80**    |
+| **+RLD (Ours)**                      | 13.6M      |           | **77.80** [Download](https://pan.baidu.com/s/1XUoRtbWqAgO83Lu6Zy_nsw)   |
 | S: DeepLabv3-MBV2                    | 3.2M       |           | 73.12        |
 | +SKD [^1]                  | 3.2M       |           | 73.82        |
 | +IFVD [^2]                 | 3.2M       |           | 73.50        |
