@@ -13,8 +13,8 @@
 | +TD                    | 13.6M      |           | 76.57        |
 | +DIST/DIST+         | 13.6M      |           | 77.10 / 77.36|
 | **+RLD (Ours)**                      | 13.6M      |           | **77.80** [Download](https://pan.baidu.com/s/1XUoRtbWqAgO83Lu6Zy_nsw)   |
-| Method                                 | Params (M) | FLOPs (G) | Val mIoU (%) |
 |--------------------------------------|------------|-----------|--------------|
+| Method                                 | Params (M) | FLOPs (G) | Val mIoU (%) |
 | S: DeepLabv3-MBV2                    | 3.2M       |           | 73.12        |
 | +SKD                | 3.2M       |           | 73.82        |
 | +IFVD                | 3.2M       |           | 73.50        |
@@ -24,8 +24,8 @@
 | +RDD [^7]                | 3.2M       |           | **76.38**    |
 | +TD [^8]                   | 3.2M       |           | 75.14        |
 | **+RLD (Ours)**                      | 3.2M       |           | 76.30        |
-| Method                                 | Params (M) | FLOPs (G) | Val mIoU (%) |
 |--------------------------------------|------------|-----------|--------------|
+| Method                                 | Params (M) | FLOPs (G) | Val mIoU (%) |
 | S: PSPNet-Res18                      | 12.9M      |           | 72.55        |
 | +SKD [^1]                | 12.9M      |           | 73.29        |
 | +IFVD [^2]                | 12.9M      |           | 73.71        |
