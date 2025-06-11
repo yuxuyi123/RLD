@@ -1,4 +1,6 @@
 # A Region-based Logit Distillation Framework for Semantic Segmentation
+Code will be released following manuscript acceptance.
+
 | Method   ( on Cityscapes)                              | Params (M) | FLOPs (G) | Val mIoU (%) |
 |--------------------------------------|------------|-----------|--------------|
 | T: DeepLabv3-Res101                  | 61.1M      | 2371.7G   | 78.07        |
@@ -36,5 +38,3 @@
 | +TD [^8]                 | 12.9M      |           | 76.24        |
 | +DIST/DIST+ [^9]          | 12.9M      |           | 76.31 / 76.52|
 | **+RLD (ours)**                      | 12.9M      |           | **76.55**    |
-
-Code will be released following manuscript acceptance.
