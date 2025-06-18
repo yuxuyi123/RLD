@@ -14,7 +14,7 @@ Code will be released following manuscript acceptance.
 | +RDD                | 13.6M      |           | 77.18        |
 | +TD                    | 13.6M      |           | 76.57        |
 | +DIST/DIST+         | 13.6M      |           | 77.10 / 77.36|
-| **+RLD (Ours)**                      | 13.6M      |           | **77.80** [Download](https://pan.baidu.com/s/1XUoRtbWqAgO83Lu6Zy_nsw)   |
+| **+RLD (Ours)**                      | 13.6M      |           | **77.80** [Download](https://pan.baidu.com/s/1xpScZSTZS2DcB7nGc_KK7g)   |
 |||||
 | Method                                 | Params (M) | FLOPs (G) | Val mIoU (%) |
 | S: DeepLabv3-MBV2                    | 3.2M       |           | 73.12        |
